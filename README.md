@@ -82,4 +82,5 @@ For more detailed setup refer [mylar](https://github.com/evilhero/mylar).
 
 ## Versions
 
++ **25.01.18:** Rebase to alpine linux 3.7.
 + **21.07.17:** Initial Release.
